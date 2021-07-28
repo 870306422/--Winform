@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\librarysystem\librarysystemMODEL\bin\Debug\librarysystemMODEL.dll
+C:\Users\LENOVO\Desktop\librarysystem\librarysystemMODEL\bin\Debug\librarysystemMODEL.pdb
+C:\Users\LENOVO\Desktop\librarysystem\librarysystemMODEL\obj\Debug\librarysystemMODEL.dll
+C:\Users\LENOVO\Desktop\librarysystem\librarysystemMODEL\obj\Debug\librarysystemMODEL.pdb
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemMODEL\bin\Debug\librarysystemMODEL.dll
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemMODEL\bin\Debug\librarysystemMODEL.pdb
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemMODEL\obj\Debug\librarysystem_MODER.csprojAssemblyReference.cache
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemMODEL\obj\Debug\librarysystem_MODER.csproj.CoreCompileInputs.cache
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemMODEL\obj\Debug\librarysystemMODEL.dll
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemMODEL\obj\Debug\librarysystemMODEL.pdb

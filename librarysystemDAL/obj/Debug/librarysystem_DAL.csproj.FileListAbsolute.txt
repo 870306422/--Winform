@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\librarysystem\librarysystemDAL\bin\Debug\librarysystemDAL.dll
+C:\Users\LENOVO\Desktop\librarysystem\librarysystemDAL\bin\Debug\librarysystemDAL.pdb
+C:\Users\LENOVO\Desktop\librarysystem\librarysystemDAL\bin\Debug\librarysystemMODEL.dll
+C:\Users\LENOVO\Desktop\librarysystem\librarysystemDAL\bin\Debug\librarysystemMODEL.pdb
+C:\Users\LENOVO\Desktop\librarysystem\librarysystemDAL\obj\Debug\librarysystem_DAL.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\librarysystem\librarysystemDAL\obj\Debug\librarysystem_DAL.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\librarysystem\librarysystemDAL\obj\Debug\librarysystemDAL.dll
+C:\Users\LENOVO\Desktop\librarysystem\librarysystemDAL\obj\Debug\librarysystemDAL.pdb
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemDAL\bin\Debug\librarysystemDAL.dll
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemDAL\bin\Debug\librarysystemDAL.pdb
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemDAL\bin\Debug\librarysystemMODEL.dll
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemDAL\bin\Debug\librarysystemMODEL.pdb
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemDAL\obj\Debug\librarysystem_DAL.csprojAssemblyReference.cache
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemDAL\obj\Debug\librarysystem_DAL.csproj.CoreCompileInputs.cache
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemDAL\obj\Debug\librarysystem_DAL.csproj.CopyComplete
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemDAL\obj\Debug\librarysystemDAL.dll
+C:\Users\韩驰驰\Desktop\librarysystem\librarysystemDAL\obj\Debug\librarysystemDAL.pdb

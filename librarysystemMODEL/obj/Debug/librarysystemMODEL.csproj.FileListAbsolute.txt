@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\librarysystem\librarysystemMODEL\bin\Debug\librarysystemMODEL.dll
+C:\Users\ASUS\source\repos\librarysystem\librarysystemMODEL\bin\Debug\librarysystemMODEL.pdb
+C:\Users\ASUS\source\repos\librarysystem\librarysystemMODEL\obj\Debug\librarysystemMODEL.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\librarysystem\librarysystemMODEL\obj\Debug\librarysystemMODEL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\librarysystem\librarysystemMODEL\obj\Debug\librarysystemMODEL.dll
+C:\Users\ASUS\source\repos\librarysystem\librarysystemMODEL\obj\Debug\librarysystemMODEL.pdb

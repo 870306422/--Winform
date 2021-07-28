@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\librarysystem\librarysystemDAL\bin\Debug\librarysystemDAL.dll
+C:\Users\ASUS\source\repos\librarysystem\librarysystemDAL\bin\Debug\librarysystemDAL.pdb
+C:\Users\ASUS\source\repos\librarysystem\librarysystemDAL\bin\Debug\librarysystemMODEL.dll
+C:\Users\ASUS\source\repos\librarysystem\librarysystemDAL\bin\Debug\librarysystemMODEL.pdb
+C:\Users\ASUS\source\repos\librarysystem\librarysystemDAL\obj\Debug\librarysystemDAL.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\librarysystem\librarysystemDAL\obj\Debug\librarysystemDAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\librarysystem\librarysystemDAL\obj\Debug\librarysystemDAL.csproj.CopyComplete
+C:\Users\ASUS\source\repos\librarysystem\librarysystemDAL\obj\Debug\librarysystemDAL.dll
+C:\Users\ASUS\source\repos\librarysystem\librarysystemDAL\obj\Debug\librarysystemDAL.pdb

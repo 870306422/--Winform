@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\librarysystem\librarysystemBLL\bin\Debug\librarysystemBLL.dll
+C:\Users\ASUS\source\repos\librarysystem\librarysystemBLL\bin\Debug\librarysystemBLL.pdb
+C:\Users\ASUS\source\repos\librarysystem\librarysystemBLL\bin\Debug\librarysystemDAL.dll
+C:\Users\ASUS\source\repos\librarysystem\librarysystemBLL\bin\Debug\librarysystemMODEL.dll
+C:\Users\ASUS\source\repos\librarysystem\librarysystemBLL\bin\Debug\librarysystemDAL.pdb
+C:\Users\ASUS\source\repos\librarysystem\librarysystemBLL\bin\Debug\librarysystemMODEL.pdb
+C:\Users\ASUS\source\repos\librarysystem\librarysystemBLL\obj\Debug\librarysystemBLL.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\librarysystem\librarysystemBLL\obj\Debug\librarysystemBLL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\librarysystem\librarysystemBLL\obj\Debug\librarysystemBLL.csproj.CopyComplete
+C:\Users\ASUS\source\repos\librarysystem\librarysystemBLL\obj\Debug\librarysystemBLL.dll
+C:\Users\ASUS\source\repos\librarysystem\librarysystemBLL\obj\Debug\librarysystemBLL.pdb

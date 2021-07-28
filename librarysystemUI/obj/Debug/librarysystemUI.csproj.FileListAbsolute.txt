@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\bin\Debug\librarysystemUI.exe.config
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\bin\Debug\librarysystemUI.exe
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\bin\Debug\librarysystemUI.pdb
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\bin\Debug\librarysystemBLL.dll
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\bin\Debug\librarysystemMODEL.dll
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\bin\Debug\librarysystemDAL.dll
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\bin\Debug\librarysystemBLL.pdb
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\bin\Debug\librarysystemMODEL.pdb
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\bin\Debug\librarysystemDAL.pdb
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\obj\Debug\librarysystemUI.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\obj\Debug\librarysystemUI.Form1.resources
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\obj\Debug\librarysystemUI.Properties.Resources.resources
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\obj\Debug\librarysystemUI.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\obj\Debug\librarysystemUI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\obj\Debug\librarysystemUI.csproj.CopyComplete
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\obj\Debug\librarysystemUI.exe
+C:\Users\ASUS\source\repos\librarysystem\librarysystemUI\obj\Debug\librarysystemUI.pdb
